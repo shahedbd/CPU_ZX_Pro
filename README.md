@@ -226,7 +226,7 @@ Complete Windows system information
 
 ---
 
-## Temperature Monitoring
+## Motherboard Information
 
 <p align="center">
 <img src="images/6.png" width="900">
@@ -234,10 +234,18 @@ Complete Windows system information
 
 ---
 
+## Temperature Monitoring
+
+<p align="center">
+<img src="images/7.1.png" width="900">
+</p>
+
+---
+
 ## Battery Information
 
 <p align="center">
-<img src="images/7.png" width="900">
+<img src="images/7.2.png" width="900">
 </p>
 
 ---
@@ -250,7 +258,7 @@ Complete Windows system information
 
 ---
 
-## IP Address
+## About
 
 <p align="center">
 <img src="images/9.png" width="900">
