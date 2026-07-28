@@ -213,34 +213,49 @@ Full network configuration details.
 ## 🖼️ Screenshots
 
 ### Dashboard
-<p align="center"><img src="images/1.png" width="900" alt="Dashboard"></p>
+<p align="center"><img src="images/1dashboard.png" width="900" alt="Dashboard"></p>
+
+### Dashboard (Dark)
+<p align="center"><img src="images/1.2dashboard.png" width="900" alt="Dashboard Dark"></p>
 
 ### CPU Information
-<p align="center"><img src="images/2.png" width="900" alt="CPU"></p>
+<p align="center"><img src="images/2cpu.png" width="900" alt="CPU"></p>
 
 ### GPU Information
-<p align="center"><img src="images/3.png" width="900" alt="GPU"></p>
+<p align="center"><img src="images/3gpu.png" width="900" alt="GPU"></p>
 
 ### Memory Information
-<p align="center"><img src="images/4.png" width="900" alt="RAM"></p>
+<p align="center"><img src="images/4ram.png" width="900" alt="RAM"></p>
 
 ### Storage Information
-<p align="center"><img src="images/5.png" width="900" alt="Storage"></p>
+<p align="center"><img src="images/5storage.png" width="900" alt="Storage"></p>
 
 ### Motherboard Information
-<p align="center"><img src="images/6.png" width="900" alt="Motherboard"></p>
+<p align="center"><img src="images/6motherboard.png" width="900" alt="Motherboard"></p>
+
+### BIOS Information
+<p align="center"><img src="images/7bios info.png" width="900" alt="BIOS"></p>
 
 ### Temperature Monitoring
-<p align="center"><img src="images/7.1.png" width="900" alt="Temperature"></p>
+<p align="center"><img src="images/8temperature.png" width="900" alt="Temperature"></p>
 
 ### Battery Information
-<p align="center"><img src="images/7.2.png" width="900" alt="Battery"></p>
+<p align="center"><img src="images/9battery.png" width="900" alt="Battery"></p>
+
+### Battery (No Battery Installed)
+<p align="center"><img src="images/9.2bettery.png" width="900" alt="Battery Not Installed"></p>
+
+### Alerts
+<p align="center"><img src="images/10alert.png" width="900" alt="Alerts"></p>
 
 ### System Information
-<p align="center"><img src="images/8.png" width="900" alt="System"></p>
+<p align="center"><img src="images/11system.png" width="900" alt="System"></p>
+
+### Public IP Address
+<p align="center"><img src="images/12IPaddress.png" width="900" alt="Public IP Address"></p>
 
 ### About
-<p align="center"><img src="images/9.png" width="900" alt="About"></p>
+<p align="center"><img src="images/13about.png" width="900" alt="About"></p>
 
 ---
 
