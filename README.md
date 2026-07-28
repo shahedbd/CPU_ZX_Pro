@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/1dashboard.png" width="100" alt="CPU ZX Pro Icon"/>
+<img src="images/300x.png" width="100" alt="CPU ZX Pro Icon"/>
 
 # CPU ZX Pro
 
