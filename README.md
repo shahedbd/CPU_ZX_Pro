@@ -1,29 +1,32 @@
 <div align="center">
 
+<img src="images/300x.png" width="100" alt="CPU ZX Pro Icon"/>
+
 # CPU ZX Pro
 
-### Professional Windows Hardware Monitoring & Diagnostics
+**Professional Hardware Monitoring & Diagnostics for Windows**
 
-Modern, lightweight, privacy-focused PC monitoring software built with **C#**, **.NET 8**, and **Windows Forms**.
+*Real-time. Lightweight. Privacy-first.*
 
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue.svg)](#)
-[![Framework](https://img.shields.io/badge/.NET-8.0-512BD4.svg)](#)
-[![Language](https://img.shields.io/badge/C%23-100%25-239120.svg)](#)
-[![License](https://img.shields.io/badge/License-Commercial-success.svg)](#)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D4?style=flat-square&logo=windows)](#)
+[![Framework](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square&logo=dotnet)](#)
+[![Language](https://img.shields.io/badge/C%23-100%25-239120?style=flat-square&logo=csharp)](#)
+[![License](https://img.shields.io/badge/License-Commercial-brightgreen?style=flat-square)](#)
+[![Store](https://img.shields.io/badge/Microsoft%20Store-Available-107C10?style=flat-square&logo=microsoft)](#)
 
-<p align="center">
-  <img src="images/1dashboard.png" width="900" alt="CPU ZX Pro Dashboard">
-</p>
+<br/>
 
-<p>
-  <a href="https://apps.microsoft.com/detail/9N5RXJCZB734">
-    <img src="https://img.shields.io/badge/Download-Microsoft%20Store-107C10?style=for-the-badge&logo=microsoft"/>
-  </a>
-  &nbsp;
-  <a href="https://zerobytebd.com/cpuzxpro">
-    <img src="https://img.shields.io/badge/Product-Website-0078D4?style=for-the-badge"/>
-  </a>
-</p>
+<a href="https://apps.microsoft.com/detail/9N5RXJCZB734">
+  <img src="https://img.shields.io/badge/⬇ Download-Microsoft%20Store-107C10?style=for-the-badge&logo=microsoft"/>
+</a>
+&nbsp;
+<a href="https://zerobytebd.com/cpuzxpro">
+  <img src="https://img.shields.io/badge/🌐 Visit-Product%20Website-0078D4?style=for-the-badge"/>
+</a>
+
+<br/><br/>
+
+<img src="images/1dashboard.png" width="900" alt="CPU ZX Pro Dashboard — Light Mode"/>
 
 </div>
 
@@ -31,82 +34,122 @@ Modern, lightweight, privacy-focused PC monitoring software built with **C#**, *
 
 ## 📋 Overview
 
-**CPU ZX Pro** is a professional hardware monitoring and diagnostics application for **Windows 10 and Windows 11**.
+**CPU ZX Pro** is a professional-grade hardware monitoring and diagnostics tool built exclusively for **Windows 10 and Windows 11**.
 
-It provides real-time insights into CPU, GPU, memory, storage, motherboard, temperatures, battery health, and network activity — all through a modern, lightweight interface.
+It delivers real-time visibility into every critical component of your PC — CPU, GPU, RAM, storage, motherboard, temperatures, battery, and network — all through a fast, modern interface that respects your privacy.
 
-Designed for **developers, gamers, IT professionals, system administrators, and PC enthusiasts**, CPU ZX Pro delivers fast, accurate monitoring while maintaining complete user privacy.
+> **Zero telemetry. Zero cloud dependency. Zero compromise.**  
+> Everything runs locally on your machine, always.
 
-> Unlike many hardware monitoring tools, CPU ZX Pro features a clean modern Windows UI focused on simplicity, speed, and zero telemetry.
-
----
-
-## ✨ Features
-
-<table>
-  <tr>
-    <td>📊 Dashboard</td>
-    <td>🖥️ CPU</td>
-    <td>🎮 GPU</td>
-    <td>💾 RAM</td>
-  </tr>
-  <tr>
-    <td>💽 Storage</td>
-    <td>🖥️ Motherboard</td>
-    <td>🌡️ Temperature</td>
-    <td>🔋 Battery</td>
-  </tr>
-  <tr>
-    <td>🔔 Alerts</td>
-    <td>🖥️ System</td>
-    <td>🌐 IP Address</td>
-    <td>ℹ️ About</td>
-  </tr>
-</table>
+Designed for **developers, gamers, IT professionals, system administrators, and PC enthusiasts** who demand accurate data without the bloat.
 
 ---
 
-## 🧭 Navigation Modules
+## ✨ What Makes CPU ZX Pro Different
 
-| Module | Description |
-|--------|-------------|
-| **Dashboard** | Real-time overview of system performance |
-| **CPU** | Processor monitoring and detailed information |
-| **GPU** | Graphics adapter information and monitoring |
-| **RAM** | Memory monitoring and specifications |
-| **Storage** | Disk usage, health, and drive information |
-| **Motherboard** | Motherboard and BIOS details |
-| **Temperature** | Hardware temperature sensor monitoring |
-| **Battery** | Laptop battery health and statistics |
-| **Alerts** | Configurable system performance alerts |
-| **System** | Windows and installed hardware information |
-| **IP Address** | Network configuration and IP details |
-| **About** | Product and developer information |
+| | CPU ZX Pro | Typical Monitoring Tools |
+|---|---|---|
+| **UI Design** | Modern Windows 11-style UI | Dated or cluttered interfaces |
+| **Privacy** | Zero telemetry, fully offline | Often phone home |
+| **Performance** | Minimal resource footprint | Can be heavy on CPU/RAM |
+| **Platform** | Microsoft Store — trusted delivery | Third-party installers |
+| **Theme Support** | Light & Dark mode | Usually one theme |
+
+---
+
+## 🖥️ Screenshots
+
+<details>
+<summary><strong>📸 Click to expand all screenshots</strong></summary>
+
+<br/>
+
+**Dashboard — Light Mode**
+<img src="images/1dashboard.png" width="900" alt="Dashboard Light"/>
+
+**Dashboard — Dark Mode**
+<img src="images/1.2dashboard.png" width="900" alt="Dashboard Dark"/>
+
+**CPU Information**
+<img src="images/2cpu.png" width="900" alt="CPU"/>
+
+**GPU Information**
+<img src="images/3gpu.png" width="900" alt="GPU"/>
+
+**Memory (RAM)**
+<img src="images/4ram.png" width="900" alt="RAM"/>
+
+**Storage**
+<img src="images/5storage.png" width="900" alt="Storage"/>
+
+**Motherboard**
+<img src="images/6motherboard.png" width="900" alt="Motherboard"/>
+
+**BIOS Information**
+<img src="images/7bios info.png" width="900" alt="BIOS"/>
+
+**Temperature Monitoring**
+<img src="images/8temperature.png" width="900" alt="Temperature"/>
+
+**Battery Health**
+<img src="images/9.2bettery.png" width="900" alt="Battery"/>
+
+**Alerts**
+<img src="images/10alert.png" width="900" alt="Alerts"/>
+
+**System Information**
+<img src="images/11system.png" width="900" alt="System"/>
+
+**IP Address & Network**
+<img src="images/12IPaddress.png" width="900" alt="IP Address"/>
+
+**About**
+<img src="images/13about.png" width="900" alt="About"/>
+
+</details>
+
+---
+
+## 🧭 Modules at a Glance
+
+CPU ZX Pro is organized into **12 focused monitoring modules**, accessible from the sidebar:
+
+| Module | What It Shows |
+|--------|---------------|
+| 📊 **Dashboard** | Live system overview — CPU, RAM, storage, network, uptime, and process count |
+| 🖥️ **CPU** | Processor name, cores, threads, clock speeds, cache, and per-core usage |
+| 🎮 **GPU** | GPU model, VRAM, driver version, usage, and display adapter details |
+| 💾 **RAM** | Total/used/available memory, speed, type, manufacturer, and slot info |
+| 💿 **Storage** | HDD/SSD/NVMe detection, capacity, health, SMART data, and temperatures |
+| 🖥️ **Motherboard** | Manufacturer, model, chipset, BIOS version, date, and serial number |
+| 🌡️ **Temperature** | Real-time CPU, motherboard, and storage sensor readings |
+| 🔋 **Battery** | Charge level, health, wear, estimated runtime, and charging status |
+| 🔔 **Alerts** | Configurable thresholds for CPU, RAM, temperature, and storage warnings |
+| 🖥️ **System** | Windows edition, build, architecture, user, boot time, and uptime |
+| 🌐 **IP Address** | IPv4, IPv6, MAC address, gateway, DNS, and adapter details |
+| ℹ️ **About** | App version, license, developer, and product information |
 
 ---
 
 ## 📊 Dashboard
 
-The Dashboard provides a live, at-a-glance overview of your entire system.
+The Dashboard is your command center — a live, unified view of your entire system at a glance.
 
-- Live CPU, Memory, Storage & Network usage
-- CPU & Memory history graphs
-- Storage overview panel
-- Network activity statistics
-- System summary, uptime & process count
-- Windows version display
+- **CPU & Memory** usage with live history graphs
+- **Storage** overview across all drives
+- **Network** activity with real-time statistics
+- **System summary** — uptime, process count, Windows version
 
 ---
 
 ## 🖥️ CPU
 
-Detailed processor diagnostics in real time.
+Deep-dive into your processor with live diagnostics.
 
 - Processor name, manufacturer & architecture
-- Core count & logical processor threads
-- Current & base clock speed
-- Cache information (L1 / L2 / L3)
-- Live CPU usage & per-core statistics
+- Core count, logical threads & cache (L1 / L2 / L3)
+- Current clock speed vs. base clock
+- Live total usage & per-core breakdown
 
 ---
 
@@ -114,179 +157,106 @@ Detailed processor diagnostics in real time.
 
 Full visibility into your graphics hardware.
 
-- GPU model & manufacturer
-- Dedicated & shared memory
-- Live GPU usage
-- Driver version & display adapter details
+- GPU model, manufacturer & driver version
+- Dedicated & shared VRAM
+- Live GPU utilization
+- Display adapter details
 
 ---
 
 ## 💾 RAM
 
-Complete memory monitoring and specifications.
+Complete memory monitoring and hardware specs.
 
 - Total, used & available memory
-- Memory speed & type
-- Manufacturer & slot information
-- Usage percentage
+- Memory type, speed & slot configuration
+- Manufacturer details & usage percentage
 
 ---
 
-## 💽 Storage
+## 💿 Storage
 
-Monitor all installed drives in one place.
+Monitor every drive in your system — all in one place.
 
-- HDD / SSD / NVMe detection
-- Capacity, free & used space
-- Drive health & SMART information
-- Temperature (on supported devices)
+- Detects HDD, SSD, and NVMe drives automatically
+- Capacity, used space & free space
+- Drive health status & SMART data
+- Temperature support for compatible devices
 - File system information
 
 ---
 
 ## 🖥️ Motherboard
 
-Full motherboard and firmware details.
+Everything about your board and firmware.
 
 - Manufacturer, model & chipset
-- BIOS version & date
+- BIOS version, release date
 - Serial number & baseboard details
 
 ---
 
 ## 🌡️ Temperature
 
-Real-time hardware sensor monitoring.
+Real-time thermal monitoring across your hardware.
 
 - CPU temperature
 - Motherboard temperature
-- Storage temperature
-- Additional available sensors
+- Storage drive temperature
+- All available system sensors
 
 ---
 
 ## 🔋 Battery
 
-Comprehensive battery health for laptop users.
+Comprehensive battery diagnostics for laptop users.
 
-- Charge percentage & remaining capacity
-- Battery health & wear level
+- Current charge percentage & remaining capacity
+- Battery health score & wear level
 - Estimated runtime
-- Charging status & power source
+- Charging status & active power source
 
 ---
 
 ## 🔔 Alerts
 
-Proactive notifications before performance becomes critical.
+Stay ahead of performance issues with proactive notifications.
 
-Configurable alerts for:
+Configure custom thresholds for:
 
-- High CPU usage
-- High memory usage
-- High temperature
-- Low storage space
+- 🔴 High CPU usage
+- 🟠 High memory usage
+- 🌡️ High temperature
+- 💿 Low storage space
+
+Alerts fire before your system becomes critical — not after.
 
 ---
 
 ## 🖥️ System
 
-Complete Windows system information at a glance.
+A complete snapshot of your Windows environment.
 
 - Computer name, Windows edition & build number
 - System architecture & logged-in user
-- Boot time, uptime & running processes
+- Boot time, uptime & running process count
 
 ---
 
 ## 🌐 IP Address
 
-Full network configuration details.
+Full network configuration at a glance.
 
 - Local IPv4 & IPv6 addresses
-- MAC address & gateway
-- DNS information & adapter details
-- Network status
-
----
-
-## 🖼️ Screenshots
-
-### Dashboard
-<p align="center"><img src="images/1dashboard.png" width="900" alt="Dashboard"></p>
-
-### Dashboard (Dark)
-<p align="center"><img src="images/1.2dashboard.png" width="900" alt="Dashboard Dark"></p>
-
-### CPU Information
-<p align="center"><img src="images/2cpu.png" width="900" alt="CPU"></p>
-
-### GPU Information
-<p align="center"><img src="images/3gpu.png" width="900" alt="GPU"></p>
-
-### Memory Information
-<p align="center"><img src="images/4ram.png" width="900" alt="RAM"></p>
-
-### Storage Information
-<p align="center"><img src="images/5storage.png" width="900" alt="Storage"></p>
-
-### Motherboard Information
-<p align="center"><img src="images/6motherboard.png" width="900" alt="Motherboard"></p>
-
-### BIOS Information
-<p align="center"><img src="images/7bios info.png" width="900" alt="BIOS"></p>
-
-### Temperature Monitoring
-<p align="center"><img src="images/8temperature.png" width="900" alt="Temperature"></p>
-
-### Battery Information
-<p align="center"><img src="images/9.2bettery.png" width="900" alt="Battery Not Installed"></p>
-
-### Battery (No Battery Installed)
-<p align="center"><img src="images/9battery.png" width="900" alt="Battery"></p>
-
-### Alerts
-<p align="center"><img src="images/10alert.png" width="900" alt="Alerts"></p>
-
-### System Information
-<p align="center"><img src="images/11system.png" width="900" alt="System"></p>
-
-### Public IP Address
-<p align="center"><img src="images/12IPaddress.png" width="900" alt="Public IP Address"></p>
-
-### About
-<p align="center"><img src="images/13about.png" width="900" alt="About"></p>
-
----
-
-## 🔧 Built With
-
-| Technology | Role |
-|------------|------|
-| **C#** | Primary language |
-| **.NET 8** | Application framework |
-| **Windows Forms** | UI framework |
-| **WMI** | Hardware data access |
-| **Performance Counters** | Real-time metrics |
-| **Windows APIs** | System-level integration |
-
----
-
-## 💻 System Requirements
-
-| Requirement | Value |
-|-------------|-------|
-| Operating System | Windows 10 / Windows 11 |
-| Architecture | x64 |
-| RAM | 4 GB minimum |
-| Storage | 100 MB |
-| Internet | Not required |
+- MAC address & default gateway
+- DNS server details & adapter information
+- Live network status
 
 ---
 
 ## 🔒 Privacy
 
-CPU ZX Pro is built with a **privacy-first** architecture. Your data never leaves your machine.
+CPU ZX Pro is built on a **privacy-first architecture**. Your hardware data never leaves your machine.
 
 | Policy | Status |
 |--------|--------|
@@ -299,44 +269,79 @@ CPU ZX Pro is built with a **privacy-first** architecture. Your data never leave
 
 ---
 
+## 🔧 Built With
+
+| Technology | Role |
+|------------|------|
+| **C#** | Primary programming language |
+| **.NET 8** | Application framework |
+| **Windows Forms** | UI framework |
+| **WMI** | Hardware data access layer |
+| **Performance Counters** | Real-time system metrics |
+| **Windows APIs** | Deep system-level integration |
+
+---
+
+## 💻 System Requirements
+
+| Requirement | Value |
+|-------------|-------|
+| **OS** | Windows 10 / Windows 11 |
+| **Architecture** | x64 |
+| **RAM** | 4 GB minimum |
+| **Storage** | ~100 MB |
+| **Internet** | Not required |
+
+---
+
 ## 🗺️ Roadmap
 
-Upcoming features under active consideration:
+Features actively under consideration for future releases:
 
-- [ ] Performance Benchmarking
-- [ ] PDF / CSV / JSON Report Export
-- [ ] Historical Performance Database
-- [ ] Process Manager
-- [ ] Fan Speed Monitoring
-- [ ] Advanced GPU Sensor Support
-- [ ] Network Usage History
-- [ ] System Tray Mini Dashboard
-- [ ] AI-Based Hardware Health Analysis
+- [ ] 📈 Performance Benchmarking
+- [ ] 📄 Report Export — PDF / CSV / JSON
+- [ ] 🗃️ Historical Performance Database
+- [ ] ⚙️ Process Manager
+- [ ] 🌀 Fan Speed Monitoring
+- [ ] 🎮 Advanced GPU Sensor Support
+- [ ] 📡 Network Usage History
+- [ ] 🖥️ System Tray Mini Dashboard
+- [ ] 🤖 AI-Based Hardware Health Analysis
 
 ---
 
 ## 📥 Download
 
-### Microsoft Store
-[![Microsoft Store](https://img.shields.io/badge/Download-Microsoft%20Store-107C10?style=for-the-badge&logo=microsoft)](https://apps.microsoft.com/detail/9N5RXJCZB734)
+<div align="center">
 
-### Product Website
-[![Website](https://img.shields.io/badge/Product-Website-0078D4?style=for-the-badge)](https://zerobytebd.com/cpuzxpro)
+<a href="https://apps.microsoft.com/detail/9N5RXJCZB734">
+  <img src="https://img.shields.io/badge/⬇ Download-Microsoft%20Store-107C10?style=for-the-badge&logo=microsoft"/>
+</a>
+&nbsp;
+<a href="https://zerobytebd.com/cpuzxpro">
+  <img src="https://img.shields.io/badge/🌐 Visit-Product%20Website-0078D4?style=for-the-badge"/>
+</a>
+
+</div>
 
 ---
 
 ## 👨‍💻 Developer
 
+<div align="center">
+
 **Zero Byte Software Solutions**
 
 🌐 [zerobytebd.com](https://zerobytebd.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ If you find CPU ZX Pro useful, please star the repository!
+⭐ **If CPU ZX Pro helps you, please star this repository — it means a lot!**
 
-Made with ❤️ using C# and .NET
+Made with ❤️ using C# and .NET 8 on Windows
 
 </div>
