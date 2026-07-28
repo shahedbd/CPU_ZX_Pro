@@ -240,10 +240,10 @@ Full network configuration details.
 <p align="center"><img src="images/8temperature.png" width="900" alt="Temperature"></p>
 
 ### Battery Information
-<p align="center"><img src="images/9battery.png" width="900" alt="Battery"></p>
+<p align="center"><img src="images/9.2bettery.png" width="900" alt="Battery Not Installed"></p>
 
 ### Battery (No Battery Installed)
-<p align="center"><img src="images/9.2bettery.png" width="900" alt="Battery Not Installed"></p>
+<p align="center"><img src="images/9battery.png" width="900" alt="Battery"></p>
 
 ### Alerts
 <p align="center"><img src="images/10alert.png" width="900" alt="Alerts"></p>
