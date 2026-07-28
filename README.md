@@ -12,7 +12,7 @@ Modern, lightweight, privacy-focused PC monitoring software built with **C#**, *
 [![License](https://img.shields.io/badge/License-Commercial-success.svg)](#)
 
 <p align="center">
-  <img src="images/1.png" width="900" alt="CPU ZX Pro Dashboard">
+  <img src="images/1dashboard.png" width="900" alt="CPU ZX Pro Dashboard">
 </p>
 
 <p>
