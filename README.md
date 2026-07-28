@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/300x.png" width="100" alt="CPU ZX Pro Icon"/>
+<img src="images/1dashboard.png" width="100" alt="CPU ZX Pro Icon"/>
 
 # CPU ZX Pro
 
@@ -59,10 +59,6 @@ Designed for **developers, gamers, IT professionals, system administrators, and 
 
 ## 🖥️ Screenshots
 
-<details>
-<summary><strong>📸 Click to expand all screenshots</strong></summary>
-
-<br/>
 
 **Dashboard — Light Mode**
 <img src="images/1dashboard.png" width="900" alt="Dashboard Light"/>
@@ -106,7 +102,6 @@ Designed for **developers, gamers, IT professionals, system administrators, and 
 **About**
 <img src="images/13about.png" width="900" alt="About"/>
 
-</details>
 
 ---
 
